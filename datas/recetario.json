@@ -1,0 +1,568 @@
+{
+  "recetas": [
+    {
+      "id": "1",
+      "nombre": "ROLLITOS DE LENGUADO",
+      "ingredientes": [
+        "2 lenguados de 600 g. cada uno",
+        " Sal",
+        "Pimienta",
+        "30 g. mantequilla.",
+        "60 g. chalotas.",
+        "100 g. champiñones.",
+        "1 zanahoria.",
+        "1 ramita de tomillo.",
+        "6-8 langostinos.",
+        "5 tallos de perejil.",
+        "100 ml. vino blanco.",
+        "Agua para cubrir.",
+        "60 g. nata.",
+        "15 g. mantequilla.",
+        "Para la guarnición:",
+        " 500 g. de patatas.",
+        "1 yema de huevo.",
+        "20 g. de queso parmesano.",
+        "30 g. de mantequilla.",
+        "80 g. de nata.",
+        "Nuez moscada.",
+        "Pimienta."
+      ],
+      "preparacion": [
+        "Sofreír la chalota en la mantequilla y, cuando esté pochada, añadir las cabezas de los langostinos y las espinas y las cabezas del lenguado. Incorporar el perejil y el vino blanco y dejar cocer unos minutos para que se evapore el alcohol. Añadir el agua y cocinar 10-15 minutos. Colar y reservar el caldo. Enrollar cada filetito de lenguado con el langostino dentro y pinchar con un palillo para que no se deshagan durante la cocción, colocar en la bandeja de horno. Colocar unas verduritas en la bandeja (chalota, champiñones, zanahoria) y añadir unos dados de mantequilla, unas ramitas de tomillo, el caldo de las cabezas de langostinos y la nata.  Colocar unas verduritas en la bandeja (chalota, champiñones, zanahoria) y añadir unos dados de mantequilla, unas ramitas de tomillo, el caldo de las cabezas de langostinos y la nata.  Colocar unas verduritas en la bandeja (chalota, champiñones, zanahoria) y añadir unos dados de mantequilla, unas ramitas de tomillo, el caldo de las cabezas de langostinos y la nata.Hornear durante 8-10 minutos, o hasta que el lenguado esté cocinado.Sacar del horno y reducir el caldito que nos queda en la bandeja en un cazo al fuego hasta obtener una salsita espesa. Para la guarnición de puré de patata, cocer las patatas, pelarlas, triturarlas, e incorporar la mantequilla y la nata caliente. Añadir sal, pimienta, nuez moscada, las yemas y el queso parmesano.Poner el puré en una manga y colocar sobre el plato de forma decorativa y acabar en el horno. Presentar el plato con los filetitos de lenguado y tapar con la salsa"
+      ],
+      "foto": "./imagen/rollo-GRANDE.jpg",
+      "precio": "15000"
+    },
+    {
+      "id": "2",
+      "nombre": "CREMA DE HONGOS Y CASTAÑAS CON PATO CONFITADO DE LENGUADO",
+      "ingredientes": [
+        "½ cebolla.",
+        "1 puerro.",
+        "800 g. de hongos o setas variadas.",
+        "350 ml. de caldo de ave.",
+        "150 ml. de nata líquida.",
+        "150 g. de puré de castañas preparado (sin azúcar).",
+        "1 muslo de pato confitado.",
+        "Aceite de oliva.",
+        "Perejil.",
+        "Sal."
+      ],
+      "preparacion": "Para elaborar esta receta de crema de hongos y castañas con pato confitado, sofreímos en una sartén con un poco de aceite la cebolla y la parte blanca del puerro, todo muy bien picado. Después, limpiamos los hongos (reservamos algunos sombreros) y lo añadimos al sofrito.Al cabo de 5 minutos, agregamos el caldo de ave y dejamos cocer durante 10 minutos. A continuación, añadimos el puré de castañas, trituramos toda la mezcla y lo pasamos por un colador fino. Incorporamos la nata, dejamos que hierva 1 minuto y ponemos a punto de sal. En otra sartén, salteamos la cebolla picada restante, añadimos los sombreros de los hongos reservados con un poco de aceite y sal. Los dejamos hasta que estén dorados e incorporamos la carne de pato deshuesada y desmenuzada. Cocinamos todo junto para que se integren lo sabores, rectificamos de sal, retiramos y reservamos. Para terminar esta receta de crema de hongos y castañas con pato confitado, con ayuda de un molde, colocamos en el centro de un plato hondo la mezcla de carne y setas. Ya en la mesa, servimos la sopa caliente alrededor y decoramos con un toque de perejil",
+      "foto": "./imagen/Crema-de-hongos-y-castañas-con-pato-confitado-Grande.jpg",
+      "precio": "10000"
+    },
+    {
+      "id": "3",
+      "nombre": "SILLA DE CORDERO",
+      "ingredientes": [
+        "600 g. de silla de cordero deshuesada..",
+        "50 g. de dátiles.",
+        "3 cucharadas de mostaza en grano",
+        "1 boniato.",
+        "70 g. de puerro picado.",
+        "1 cabeza de ajos.",
+        "1 cucharada de nata líquida.",
+        "Aceite de oliva.",
+        "Pimienta.",
+        "Sal."
+      ],
+      "preparacion": "Para preparar esta receta de silla de cordero rellena de dátiles, primero picamos los dátiles.deshuesados y los mezclamos con la mostaza, salpimentamos la silla de cordero y rellenamos con la mezcla de dátil y mostaza, atamos con hilo de bridar y lo horneamos junto con la cabeza de ajo abierta a la mitad durante 25 minutos a 180ºC.Mientras, pelamos el boniato y lo troceamos, pochamos el puerro, añadimos el boniato y tapamos, cocinamos a fuego muy bajo durante 15 minutos, trituramos, ponemos a punto de sal y reservamos. Sacamos la carne de la cabeza de ajos, machacamos con un tenedor y mezclamos con una cucharada de nata líquida, damos forma de cilindro y cortamos en medallones de ½ cm.Cortamos la silla de cordero en medallones de 3cm. de grosor, colocamos el puré de boniato y encima la carne rellena. Acompañamos del mazapán de ajo y unas hojas de albahaca mini. ",
+      "foto": "./imagen/Silla-de-cordero.jpg",
+      "precio": "9000"
+    },
+    {
+      "id": "4",
+      "nombre": "LASAÑA DE VERDURAS",
+      "ingredientes": [
+        "8 hojas de lasaña.",
+        "1 cebolla mediana",
+        "1 pimiento.",
+        "1 berenjena.",
+        "1 calabacín pequeño.",
+        "200 g. de tomate frito.",
+        "200 ml. de leche entera.",
+        "2 cucharadas de harina.",
+        "Nuez moscada.",
+        "Queso Emmental rallado ",
+        "Aceite de Oliva.",
+        "Pimienta.",
+        "Sal."
+      ],
+      "preparacion": "Para elaborar esta receta de lasaña de verduras, primero ponemos una cazuela con agua a hervir  y cocemos las hojas de lasaña. Escurrimos y reservamos. Por otro lado, cortamos las verduras en dados y las sofreímos en una sartén con Aceite de Oliva y sal.Mientras, en una sartén aparte, hacemos una bechamel sofriendo la harina y añadiéndole poco a poco la leche sin dejar de remover hasta que espese. Acabar la bechamel añadiendo sal, pimienta y nuez moscada al gusto.A continuación, disponer la lasaña en una bandeja de horno, colocando las verduras entre dos capas de hojas de lasaña y cubriendo todo con la bechamel.Finalmente, espolvoreamos la lasaña de verduras con el queso emmental rallado y gratinamos en el horno unos minutos. ",
+      "foto": "./imagen/lasaña-GRANDE.jpg",
+      "precio": "15000"
+    },
+    {
+      "id": "5",
+      "nombre": "RODABALLO CONFITADO CON SOFRITO DE TOMATE",
+      "ingredientes": [
+        "2 lenguados de 600 g. cada uno",
+        " Sal",
+        "Pimienta",
+        "30 g. mantequilla.",
+        "60 g. chalotas.",
+        "100 g. champiñones.",
+        "1 zanahoria.",
+        "1 ramita de tomillo.",
+        "6-8 langostinos.",
+        "5 tallos de perejil.",
+        "100 ml. vino blanco.",
+        "Agua para cubrir.",
+        "60 g. nata.",
+        "15 g. mantequilla.",
+        "Para la guarnición:",
+        " 500 g. de patatas.",
+        "1 yema de huevo.",
+        "20 g. de queso parmesano.",
+        "30 g. de mantequilla.",
+        "80 g. de nata.",
+        "Nuez moscada.",
+        "Pimienta."
+      ],
+      "preparacion": [
+        "Sofreír la chalota en la mantequilla y, cuando esté pochada, añadir las cabezas de los langostinos y las espinas y las cabezas del lenguado. Incorporar el perejil y el vino blanco y dejar cocer unos minutos para que se evapore el alcohol. Añadir el agua y cocinar 10-15 minutos. Colar y reservar el caldo. Enrollar cada filetito de lenguado con el langostino dentro y pinchar con un palillo para que no se deshagan durante la cocción, colocar en la bandeja de horno. Colocar unas verduritas en la bandeja (chalota, champiñones, zanahoria) y añadir unos dados de mantequilla, unas ramitas de tomillo, el caldo de las cabezas de langostinos y la nata.  Colocar unas verduritas en la bandeja (chalota, champiñones, zanahoria) y añadir unos dados de mantequilla, unas ramitas de tomillo, el caldo de las cabezas de langostinos y la nata.  Colocar unas verduritas en la bandeja (chalota, champiñones, zanahoria) y añadir unos dados de mantequilla, unas ramitas de tomillo, el caldo de las cabezas de langostinos y la nata.Hornear durante 8-10 minutos, o hasta que el lenguado esté cocinado.Sacar del horno y reducir el caldito que nos queda en la bandeja en un cazo al fuego hasta obtener una salsita espesa. Para la guarnición de puré de patata, cocer las patatas, pelarlas, triturarlas, e incorporar la mantequilla y la nata caliente. Añadir sal, pimienta, nuez moscada, las yemas y el queso parmesano.Poner el puré en una manga y colocar sobre el plato de forma decorativa y acabar en el horno. Presentar el plato con los filetitos de lenguado y tapar con la salsa"
+      ],
+      "foto": "./imagen/1.jpg",
+      "precio": "10000"
+    },
+    {
+      "id": "6",
+      "nombre": "BACALAO CONFITADO CON BERBERECHOS Y ALCACHOFAS",
+      "ingredientes": [
+        "½ cebolla.",
+        "1 puerro.",
+        "800 g. de hongos o setas variadas.",
+        "350 ml. de caldo de ave.",
+        "150 ml. de nata líquida.",
+        "150 g. de puré de castañas preparado (sin azúcar).",
+        "1 muslo de pato confitado.",
+        "Aceite de oliva.",
+        "Perejil.",
+        "Sal."
+      ],
+      "preparacion": "Para elaborar esta receta de crema de hongos y castañas con pato confitado, sofreímos en una sartén con un poco de aceite la cebolla y la parte blanca del puerro, todo muy bien picado. Después, limpiamos los hongos (reservamos algunos sombreros) y lo añadimos al sofrito.Al cabo de 5 minutos, agregamos el caldo de ave y dejamos cocer durante 10 minutos. A continuación, añadimos el puré de castañas, trituramos toda la mezcla y lo pasamos por un colador fino. Incorporamos la nata, dejamos que hierva 1 minuto y ponemos a punto de sal. En otra sartén, salteamos la cebolla picada restante, añadimos los sombreros de los hongos reservados con un poco de aceite y sal. Los dejamos hasta que estén dorados e incorporamos la carne de pato deshuesada y desmenuzada. Cocinamos todo junto para que se integren lo sabores, rectificamos de sal, retiramos y reservamos. Para terminar esta receta de crema de hongos y castañas con pato confitado, con ayuda de un molde, colocamos en el centro de un plato hondo la mezcla de carne y setas. Ya en la mesa, servimos la sopa caliente alrededor y decoramos con un toque de perejil",
+      "foto": "./imagen/2.jpg",
+      "precio": "8000"
+    },
+    {
+      "id": "7",
+      "nombre": "CARDO CON CREMA DE JAMÓN Y CHAMPIÑONES",
+      "ingredientes": [
+        "600 g. de silla de cordero deshuesada..",
+        "50 g. de dátiles.",
+        "3 cucharadas de mostaza en grano",
+        "1 boniato.",
+        "70 g. de puerro picado.",
+        "1 cabeza de ajos.",
+        "1 cucharada de nata líquida.",
+        "Aceite de oliva.",
+        "Pimienta.",
+        "Sal."
+      ],
+      "preparacion": "Para preparar esta receta de silla de cordero rellena de dátiles, primero picamos los dátiles.deshuesados y los mezclamos con la mostaza, salpimentamos la silla de cordero y rellenamos con la mezcla de dátil y mostaza, atamos con hilo de bridar y lo horneamos junto con la cabeza de ajo abierta a la mitad durante 25 minutos a 180ºC.Mientras, pelamos el boniato y lo troceamos, pochamos el puerro, añadimos el boniato y tapamos, cocinamos a fuego muy bajo durante 15 minutos, trituramos, ponemos a punto de sal y reservamos. Sacamos la carne de la cabeza de ajos, machacamos con un tenedor y mezclamos con una cucharada de nata líquida, damos forma de cilindro y cortamos en medallones de ½ cm.Cortamos la silla de cordero en medallones de 3cm. de grosor, colocamos el puré de boniato y encima la carne rellena. Acompañamos del mazapán de ajo y unas hojas de albahaca mini. ",
+      "foto": "./imagen/3.jpg",
+      "precio": "15000"
+    },
+    {
+      "id": "8",
+      "nombre": "BROCHETAS DE POLLO AL CURRY CON HIGOS Y EMULSIÓN DE MANGO",
+      "ingredientes": [
+        "8 hojas de lasaña.",
+        "1 cebolla mediana",
+        "1 pimiento.",
+        "1 berenjena.",
+        "1 calabacín pequeño.",
+        "200 g. de tomate frito.",
+        "200 ml. de leche entera.",
+        "2 cucharadas de harina.",
+        "Nuez moscada.",
+        "Queso Emmental rallado ",
+        "Aceite de Oliva.",
+        "Pimienta.",
+        "Sal."
+      ],
+      "preparacion": "Para elaborar esta receta de lasaña de verduras, primero ponemos una cazuela con agua a hervir  y cocemos las hojas de lasaña. Escurrimos y reservamos. Por otro lado, cortamos las verduras en dados y las sofreímos en una sartén con Aceite de Oliva y sal.Mientras, en una sartén aparte, hacemos una bechamel sofriendo la harina y añadiéndole poco a poco la leche sin dejar de remover hasta que espese. Acabar la bechamel añadiendo sal, pimienta y nuez moscada al gusto.A continuación, disponer la lasaña en una bandeja de horno, colocando las verduras entre dos capas de hojas de lasaña y cubriendo todo con la bechamel.Finalmente, espolvoreamos la lasaña de verduras con el queso emmental rallado y gratinamos en el horno unos minutos. ",
+      "foto": "./imagen/4.jpg",
+      "precio": "12000"
+    },
+    {
+      "id": "9",
+      "nombre": "PUDÍN DE PAN CON TOMATE",
+      "ingredientes": [
+        "2 lenguados de 600 g. cada uno",
+        " Sal",
+        "Pimienta",
+        "30 g. mantequilla.",
+        "60 g. chalotas.",
+        "100 g. champiñones.",
+        "1 zanahoria.",
+        "1 ramita de tomillo.",
+        "6-8 langostinos.",
+        "5 tallos de perejil.",
+        "100 ml. vino blanco.",
+        "Agua para cubrir.",
+        "60 g. nata.",
+        "15 g. mantequilla.",
+        "Para la guarnición:",
+        " 500 g. de patatas.",
+        "1 yema de huevo.",
+        "20 g. de queso parmesano.",
+        "30 g. de mantequilla.",
+        "80 g. de nata.",
+        "Nuez moscada.",
+        "Pimienta."
+      ],
+      "preparacion": [
+        "Sofreír la chalota en la mantequilla y, cuando esté pochada, añadir las cabezas de los langostinos y las espinas y las cabezas del lenguado. Incorporar el perejil y el vino blanco y dejar cocer unos minutos para que se evapore el alcohol. Añadir el agua y cocinar 10-15 minutos. Colar y reservar el caldo. Enrollar cada filetito de lenguado con el langostino dentro y pinchar con un palillo para que no se deshagan durante la cocción, colocar en la bandeja de horno. Colocar unas verduritas en la bandeja (chalota, champiñones, zanahoria) y añadir unos dados de mantequilla, unas ramitas de tomillo, el caldo de las cabezas de langostinos y la nata.  Colocar unas verduritas en la bandeja (chalota, champiñones, zanahoria) y añadir unos dados de mantequilla, unas ramitas de tomillo, el caldo de las cabezas de langostinos y la nata.  Colocar unas verduritas en la bandeja (chalota, champiñones, zanahoria) y añadir unos dados de mantequilla, unas ramitas de tomillo, el caldo de las cabezas de langostinos y la nata.Hornear durante 8-10 minutos, o hasta que el lenguado esté cocinado.Sacar del horno y reducir el caldito que nos queda en la bandeja en un cazo al fuego hasta obtener una salsita espesa. Para la guarnición de puré de patata, cocer las patatas, pelarlas, triturarlas, e incorporar la mantequilla y la nata caliente. Añadir sal, pimienta, nuez moscada, las yemas y el queso parmesano.Poner el puré en una manga y colocar sobre el plato de forma decorativa y acabar en el horno. Presentar el plato con los filetitos de lenguado y tapar con la salsa"
+      ],
+      "foto": "./imagen/5.jpg",
+      "precio": "13000"
+    },
+    {
+      "id": "10",
+      "nombre": "BOLITAS DE POLLO ASADO CON CEBOLLITA",
+      "ingredientes": [
+        "½ cebolla.",
+        "1 puerro.",
+        "800 g. de hongos o setas variadas.",
+        "350 ml. de caldo de ave.",
+        "150 ml. de nata líquida.",
+        "150 g. de puré de castañas preparado (sin azúcar).",
+        "1 muslo de pato confitado.",
+        "Aceite de oliva.",
+        "Perejil.",
+        "Sal."
+      ],
+      "preparacion": "Para elaborar esta receta de crema de hongos y castañas con pato confitado, sofreímos en una sartén con un poco de aceite la cebolla y la parte blanca del puerro, todo muy bien picado. Después, limpiamos los hongos (reservamos algunos sombreros) y lo añadimos al sofrito.Al cabo de 5 minutos, agregamos el caldo de ave y dejamos cocer durante 10 minutos. A continuación, añadimos el puré de castañas, trituramos toda la mezcla y lo pasamos por un colador fino. Incorporamos la nata, dejamos que hierva 1 minuto y ponemos a punto de sal. En otra sartén, salteamos la cebolla picada restante, añadimos los sombreros de los hongos reservados con un poco de aceite y sal. Los dejamos hasta que estén dorados e incorporamos la carne de pato deshuesada y desmenuzada. Cocinamos todo junto para que se integren lo sabores, rectificamos de sal, retiramos y reservamos. Para terminar esta receta de crema de hongos y castañas con pato confitado, con ayuda de un molde, colocamos en el centro de un plato hondo la mezcla de carne y setas. Ya en la mesa, servimos la sopa caliente alrededor y decoramos con un toque de perejil",
+      "foto": "./imagen/6.jpg",
+      "precio": "14000"
+    },
+    {
+      "id": "11",
+      "nombre": "CREMA FRÍA DE MELÓN",
+      "ingredientes": [
+        "600 g. de silla de cordero deshuesada..",
+        "50 g. de dátiles.",
+        "3 cucharadas de mostaza en grano",
+        "1 boniato.",
+        "70 g. de puerro picado.",
+        "1 cabeza de ajos.",
+        "1 cucharada de nata líquida.",
+        "Aceite de oliva.",
+        "Pimienta.",
+        "Sal."
+      ],
+      "preparacion": "Para preparar esta receta de silla de cordero rellena de dátiles, primero picamos los dátiles.deshuesados y los mezclamos con la mostaza, salpimentamos la silla de cordero y rellenamos con la mezcla de dátil y mostaza, atamos con hilo de bridar y lo horneamos junto con la cabeza de ajo abierta a la mitad durante 25 minutos a 180ºC.Mientras, pelamos el boniato y lo troceamos, pochamos el puerro, añadimos el boniato y tapamos, cocinamos a fuego muy bajo durante 15 minutos, trituramos, ponemos a punto de sal y reservamos. Sacamos la carne de la cabeza de ajos, machacamos con un tenedor y mezclamos con una cucharada de nata líquida, damos forma de cilindro y cortamos en medallones de ½ cm.Cortamos la silla de cordero en medallones de 3cm. de grosor, colocamos el puré de boniato y encima la carne rellena. Acompañamos del mazapán de ajo y unas hojas de albahaca mini. ",
+      "foto": "./imagen/7.jpg"
+    },
+    {
+      "id": "12",
+      "nombre": "CREMA FRÍA DE MELÓN",
+      "ingredientes": [
+        "8 hojas de lasaña.",
+        "1 cebolla mediana",
+        "1 pimiento.",
+        "1 berenjena.",
+        "1 calabacín pequeño.",
+        "200 g. de tomate frito.",
+        "200 ml. de leche entera.",
+        "2 cucharadas de harina.",
+        "Nuez moscada.",
+        "Queso Emmental rallado ",
+        "Aceite de Oliva.",
+        "Pimienta.",
+        "Sal."
+      ],
+      "preparacion": "Para elaborar esta receta de lasaña de verduras, primero ponemos una cazuela con agua a hervir  y cocemos las hojas de lasaña. Escurrimos y reservamos. Por otro lado, cortamos las verduras en dados y las sofreímos en una sartén con Aceite de Oliva y sal.Mientras, en una sartén aparte, hacemos una bechamel sofriendo la harina y añadiéndole poco a poco la leche sin dejar de remover hasta que espese. Acabar la bechamel añadiendo sal, pimienta y nuez moscada al gusto.A continuación, disponer la lasaña en una bandeja de horno, colocando las verduras entre dos capas de hojas de lasaña y cubriendo todo con la bechamel.Finalmente, espolvoreamos la lasaña de verduras con el queso emmental rallado y gratinamos en el horno unos minutos. ",
+      "foto": "./imagen/8.jpg",
+      "precio": "14000"
+    },
+    {
+      "id": "13",
+      "nombre": "ROLLITOS DE LENGUADO",
+      "ingredientes": [
+        "2 lenguados de 600 g. cada uno",
+        " Sal",
+        "Pimienta",
+        "30 g. mantequilla.",
+        "60 g. chalotas.",
+        "100 g. champiñones.",
+        "1 zanahoria.",
+        "1 ramita de tomillo.",
+        "6-8 langostinos.",
+        "5 tallos de perejil.",
+        "100 ml. vino blanco.",
+        "Agua para cubrir.",
+        "60 g. nata.",
+        "15 g. mantequilla.",
+        "Para la guarnición:",
+        " 500 g. de patatas.",
+        "1 yema de huevo.",
+        "20 g. de queso parmesano.",
+        "30 g. de mantequilla.",
+        "80 g. de nata.",
+        "Nuez moscada.",
+        "Pimienta."
+      ],
+      "preparacion": [
+        "Sofreír la chalota en la mantequilla y, cuando esté pochada, añadir las cabezas de los langostinos y las espinas y las cabezas del lenguado. Incorporar el perejil y el vino blanco y dejar cocer unos minutos para que se evapore el alcohol. Añadir el agua y cocinar 10-15 minutos. Colar y reservar el caldo. Enrollar cada filetito de lenguado con el langostino dentro y pinchar con un palillo para que no se deshagan durante la cocción, colocar en la bandeja de horno. Colocar unas verduritas en la bandeja (chalota, champiñones, zanahoria) y añadir unos dados de mantequilla, unas ramitas de tomillo, el caldo de las cabezas de langostinos y la nata.  Colocar unas verduritas en la bandeja (chalota, champiñones, zanahoria) y añadir unos dados de mantequilla, unas ramitas de tomillo, el caldo de las cabezas de langostinos y la nata.  Colocar unas verduritas en la bandeja (chalota, champiñones, zanahoria) y añadir unos dados de mantequilla, unas ramitas de tomillo, el caldo de las cabezas de langostinos y la nata.Hornear durante 8-10 minutos, o hasta que el lenguado esté cocinado.Sacar del horno y reducir el caldito que nos queda en la bandeja en un cazo al fuego hasta obtener una salsita espesa. Para la guarnición de puré de patata, cocer las patatas, pelarlas, triturarlas, e incorporar la mantequilla y la nata caliente. Añadir sal, pimienta, nuez moscada, las yemas y el queso parmesano.Poner el puré en una manga y colocar sobre el plato de forma decorativa y acabar en el horno. Presentar el plato con los filetitos de lenguado y tapar con la salsa"
+      ],
+      "foto": "./imagen/rollo-GRANDE.jpg",
+      "precio": "10000"
+    },
+    {
+      "id": "14",
+      "nombre": "CREMA DE HONGOS Y CASTAÑAS CON PATO CONFITADO DE LENGUADO",
+      "ingredientes": [
+        "½ cebolla.",
+        "1 puerro.",
+        "800 g. de hongos o setas variadas.",
+        "350 ml. de caldo de ave.",
+        "150 ml. de nata líquida.",
+        "150 g. de puré de castañas preparado (sin azúcar).",
+        "1 muslo de pato confitado.",
+        "Aceite de oliva.",
+        "Perejil.",
+        "Sal."
+      ],
+      "preparacion": "Para elaborar esta receta de crema de hongos y castañas con pato confitado, sofreímos en una sartén con un poco de aceite la cebolla y la parte blanca del puerro, todo muy bien picado. Después, limpiamos los hongos (reservamos algunos sombreros) y lo añadimos al sofrito.Al cabo de 5 minutos, agregamos el caldo de ave y dejamos cocer durante 10 minutos. A continuación, añadimos el puré de castañas, trituramos toda la mezcla y lo pasamos por un colador fino. Incorporamos la nata, dejamos que hierva 1 minuto y ponemos a punto de sal. En otra sartén, salteamos la cebolla picada restante, añadimos los sombreros de los hongos reservados con un poco de aceite y sal. Los dejamos hasta que estén dorados e incorporamos la carne de pato deshuesada y desmenuzada. Cocinamos todo junto para que se integren lo sabores, rectificamos de sal, retiramos y reservamos. Para terminar esta receta de crema de hongos y castañas con pato confitado, con ayuda de un molde, colocamos en el centro de un plato hondo la mezcla de carne y setas. Ya en la mesa, servimos la sopa caliente alrededor y decoramos con un toque de perejil",
+      "foto": "./imagen/Crema-de-hongos-y-castañas-con-pato-confitado-Grande.jpg",
+      "precio": "11000"
+    },
+    {
+      "id": "15",
+      "nombre": "SILLA DE CORDERO",
+      "ingredientes": [
+        "600 g. de silla de cordero deshuesada..",
+        "50 g. de dátiles.",
+        "3 cucharadas de mostaza en grano",
+        "1 boniato.",
+        "70 g. de puerro picado.",
+        "1 cabeza de ajos.",
+        "1 cucharada de nata líquida.",
+        "Aceite de oliva.",
+        "Pimienta.",
+        "Sal."
+      ],
+      "preparacion": "Para preparar esta receta de silla de cordero rellena de dátiles, primero picamos los dátiles.deshuesados y los mezclamos con la mostaza, salpimentamos la silla de cordero y rellenamos con la mezcla de dátil y mostaza, atamos con hilo de bridar y lo horneamos junto con la cabeza de ajo abierta a la mitad durante 25 minutos a 180ºC.Mientras, pelamos el boniato y lo troceamos, pochamos el puerro, añadimos el boniato y tapamos, cocinamos a fuego muy bajo durante 15 minutos, trituramos, ponemos a punto de sal y reservamos. Sacamos la carne de la cabeza de ajos, machacamos con un tenedor y mezclamos con una cucharada de nata líquida, damos forma de cilindro y cortamos en medallones de ½ cm.Cortamos la silla de cordero en medallones de 3cm. de grosor, colocamos el puré de boniato y encima la carne rellena. Acompañamos del mazapán de ajo y unas hojas de albahaca mini. ",
+      "foto": "./imagen/Silla-de-cordero.jpg",
+      "precio": "9000"
+    },
+    {
+      "id": "16",
+      "nombre": "LASAÑA DE VERDURAS",
+      "ingredientes": [
+        "8 hojas de lasaña.",
+        "1 cebolla mediana",
+        "1 pimiento.",
+        "1 berenjena.",
+        "1 calabacín pequeño.",
+        "200 g. de tomate frito.",
+        "200 ml. de leche entera.",
+        "2 cucharadas de harina.",
+        "Nuez moscada.",
+        "Queso Emmental rallado ",
+        "Aceite de Oliva.",
+        "Pimienta.",
+        "Sal."
+      ],
+      "preparacion": "Para elaborar esta receta de lasaña de verduras, primero ponemos una cazuela con agua a hervir  y cocemos las hojas de lasaña. Escurrimos y reservamos. Por otro lado, cortamos las verduras en dados y las sofreímos en una sartén con Aceite de Oliva y sal.Mientras, en una sartén aparte, hacemos una bechamel sofriendo la harina y añadiéndole poco a poco la leche sin dejar de remover hasta que espese. Acabar la bechamel añadiendo sal, pimienta y nuez moscada al gusto.A continuación, disponer la lasaña en una bandeja de horno, colocando las verduras entre dos capas de hojas de lasaña y cubriendo todo con la bechamel.Finalmente, espolvoreamos la lasaña de verduras con el queso emmental rallado y gratinamos en el horno unos minutos. ",
+      "foto": "./imagen/lasaña-GRANDE.jpg",
+      "precio": "15000"
+    },
+    {
+      "id": "17",
+      "nombre": "RODABALLO CONFITADO CON SOFRITO DE TOMATE",
+      "ingredientes": [
+        "2 lenguados de 600 g. cada uno",
+        " Sal",
+        "Pimienta",
+        "30 g. mantequilla.",
+        "60 g. chalotas.",
+        "100 g. champiñones.",
+        "1 zanahoria.",
+        "1 ramita de tomillo.",
+        "6-8 langostinos.",
+        "5 tallos de perejil.",
+        "100 ml. vino blanco.",
+        "Agua para cubrir.",
+        "60 g. nata.",
+        "15 g. mantequilla.",
+        "Para la guarnición:",
+        " 500 g. de patatas.",
+        "1 yema de huevo.",
+        "20 g. de queso parmesano.",
+        "30 g. de mantequilla.",
+        "80 g. de nata.",
+        "Nuez moscada.",
+        "Pimienta."
+      ],
+      "preparacion": [
+        "Sofreír la chalota en la mantequilla y, cuando esté pochada, añadir las cabezas de los langostinos y las espinas y las cabezas del lenguado. Incorporar el perejil y el vino blanco y dejar cocer unos minutos para que se evapore el alcohol. Añadir el agua y cocinar 10-15 minutos. Colar y reservar el caldo. Enrollar cada filetito de lenguado con el langostino dentro y pinchar con un palillo para que no se deshagan durante la cocción, colocar en la bandeja de horno. Colocar unas verduritas en la bandeja (chalota, champiñones, zanahoria) y añadir unos dados de mantequilla, unas ramitas de tomillo, el caldo de las cabezas de langostinos y la nata.  Colocar unas verduritas en la bandeja (chalota, champiñones, zanahoria) y añadir unos dados de mantequilla, unas ramitas de tomillo, el caldo de las cabezas de langostinos y la nata.  Colocar unas verduritas en la bandeja (chalota, champiñones, zanahoria) y añadir unos dados de mantequilla, unas ramitas de tomillo, el caldo de las cabezas de langostinos y la nata.Hornear durante 8-10 minutos, o hasta que el lenguado esté cocinado.Sacar del horno y reducir el caldito que nos queda en la bandeja en un cazo al fuego hasta obtener una salsita espesa. Para la guarnición de puré de patata, cocer las patatas, pelarlas, triturarlas, e incorporar la mantequilla y la nata caliente. Añadir sal, pimienta, nuez moscada, las yemas y el queso parmesano.Poner el puré en una manga y colocar sobre el plato de forma decorativa y acabar en el horno. Presentar el plato con los filetitos de lenguado y tapar con la salsa"
+      ],
+      "foto": "./imagen/1.jpg",
+      "precio": "10000"
+    },
+    {
+      "id": "18",
+      "nombre": "BACALAO CONFITADO CON BERBERECHOS Y ALCACHOFAS",
+      "ingredientes": [
+        "½ cebolla.",
+        "1 puerro.",
+        "800 g. de hongos o setas variadas.",
+        "350 ml. de caldo de ave.",
+        "150 ml. de nata líquida.",
+        "150 g. de puré de castañas preparado (sin azúcar).",
+        "1 muslo de pato confitado.",
+        "Aceite de oliva.",
+        "Perejil.",
+        "Sal."
+      ],
+      "preparacion": "Para elaborar esta receta de crema de hongos y castañas con pato confitado, sofreímos en una sartén con un poco de aceite la cebolla y la parte blanca del puerro, todo muy bien picado. Después, limpiamos los hongos (reservamos algunos sombreros) y lo añadimos al sofrito.Al cabo de 5 minutos, agregamos el caldo de ave y dejamos cocer durante 10 minutos. A continuación, añadimos el puré de castañas, trituramos toda la mezcla y lo pasamos por un colador fino. Incorporamos la nata, dejamos que hierva 1 minuto y ponemos a punto de sal. En otra sartén, salteamos la cebolla picada restante, añadimos los sombreros de los hongos reservados con un poco de aceite y sal. Los dejamos hasta que estén dorados e incorporamos la carne de pato deshuesada y desmenuzada. Cocinamos todo junto para que se integren lo sabores, rectificamos de sal, retiramos y reservamos. Para terminar esta receta de crema de hongos y castañas con pato confitado, con ayuda de un molde, colocamos en el centro de un plato hondo la mezcla de carne y setas. Ya en la mesa, servimos la sopa caliente alrededor y decoramos con un toque de perejil",
+      "foto": "./imagen/2.jpg",
+      "precio": "13000"
+    },
+    {
+      "id": "19",
+      "nombre": "CARDO CON CREMA DE JAMÓN Y CHAMPIÑONES",
+      "ingredientes": [
+        "600 g. de silla de cordero deshuesada..",
+        "50 g. de dátiles.",
+        "3 cucharadas de mostaza en grano",
+        "1 boniato.",
+        "70 g. de puerro picado.",
+        "1 cabeza de ajos.",
+        "1 cucharada de nata líquida.",
+        "Aceite de oliva.",
+        "Pimienta.",
+        "Sal."
+      ],
+      "preparacion": "Para preparar esta receta de silla de cordero rellena de dátiles, primero picamos los dátiles.deshuesados y los mezclamos con la mostaza, salpimentamos la silla de cordero y rellenamos con la mezcla de dátil y mostaza, atamos con hilo de bridar y lo horneamos junto con la cabeza de ajo abierta a la mitad durante 25 minutos a 180ºC.Mientras, pelamos el boniato y lo troceamos, pochamos el puerro, añadimos el boniato y tapamos, cocinamos a fuego muy bajo durante 15 minutos, trituramos, ponemos a punto de sal y reservamos. Sacamos la carne de la cabeza de ajos, machacamos con un tenedor y mezclamos con una cucharada de nata líquida, damos forma de cilindro y cortamos en medallones de ½ cm.Cortamos la silla de cordero en medallones de 3cm. de grosor, colocamos el puré de boniato y encima la carne rellena. Acompañamos del mazapán de ajo y unas hojas de albahaca mini. ",
+      "foto": "./imagen/3.jpg",
+      "precio": "13000"
+    },
+    {
+      "id": "20",
+      "nombre": "BROCHETAS DE POLLO AL CURRY CON HIGOS Y EMULSIÓN DE MANGO",
+      "ingredientes": [
+        "8 hojas de lasaña.",
+        "1 cebolla mediana",
+        "1 pimiento.",
+        "1 berenjena.",
+        "1 calabacín pequeño.",
+        "200 g. de tomate frito.",
+        "200 ml. de leche entera.",
+        "2 cucharadas de harina.",
+        "Nuez moscada.",
+        "Queso Emmental rallado ",
+        "Aceite de Oliva.",
+        "Pimienta.",
+        "Sal."
+      ],
+      "preparacion": "Para elaborar esta receta de lasaña de verduras, primero ponemos una cazuela con agua a hervir  y cocemos las hojas de lasaña. Escurrimos y reservamos. Por otro lado, cortamos las verduras en dados y las sofreímos en una sartén con Aceite de Oliva y sal.Mientras, en una sartén aparte, hacemos una bechamel sofriendo la harina y añadiéndole poco a poco la leche sin dejar de remover hasta que espese. Acabar la bechamel añadiendo sal, pimienta y nuez moscada al gusto.A continuación, disponer la lasaña en una bandeja de horno, colocando las verduras entre dos capas de hojas de lasaña y cubriendo todo con la bechamel.Finalmente, espolvoreamos la lasaña de verduras con el queso emmental rallado y gratinamos en el horno unos minutos. ",
+      "foto": "./imagen/4.jpg",
+      "precio": "11000"
+    },
+    {
+      "id": "21",
+      "nombre": "PUDÍN DE PAN CON TOMATE",
+      "ingredientes": [
+        "2 lenguados de 600 g. cada uno",
+        " Sal",
+        "Pimienta",
+        "30 g. mantequilla.",
+        "60 g. chalotas.",
+        "100 g. champiñones.",
+        "1 zanahoria.",
+        "1 ramita de tomillo.",
+        "6-8 langostinos.",
+        "5 tallos de perejil.",
+        "100 ml. vino blanco.",
+        "Agua para cubrir.",
+        "60 g. nata.",
+        "15 g. mantequilla.",
+        "Para la guarnición:",
+        " 500 g. de patatas.",
+        "1 yema de huevo.",
+        "20 g. de queso parmesano.",
+        "30 g. de mantequilla.",
+        "80 g. de nata.",
+        "Nuez moscada.",
+        "Pimienta."
+      ],
+      "preparacion": [
+        "Sofreír la chalota en la mantequilla y, cuando esté pochada, añadir las cabezas de los langostinos y las espinas y las cabezas del lenguado. Incorporar el perejil y el vino blanco y dejar cocer unos minutos para que se evapore el alcohol. Añadir el agua y cocinar 10-15 minutos. Colar y reservar el caldo. Enrollar cada filetito de lenguado con el langostino dentro y pinchar con un palillo para que no se deshagan durante la cocción, colocar en la bandeja de horno. Colocar unas verduritas en la bandeja (chalota, champiñones, zanahoria) y añadir unos dados de mantequilla, unas ramitas de tomillo, el caldo de las cabezas de langostinos y la nata.  Colocar unas verduritas en la bandeja (chalota, champiñones, zanahoria) y añadir unos dados de mantequilla, unas ramitas de tomillo, el caldo de las cabezas de langostinos y la nata.  Colocar unas verduritas en la bandeja (chalota, champiñones, zanahoria) y añadir unos dados de mantequilla, unas ramitas de tomillo, el caldo de las cabezas de langostinos y la nata.Hornear durante 8-10 minutos, o hasta que el lenguado esté cocinado.Sacar del horno y reducir el caldito que nos queda en la bandeja en un cazo al fuego hasta obtener una salsita espesa. Para la guarnición de puré de patata, cocer las patatas, pelarlas, triturarlas, e incorporar la mantequilla y la nata caliente. Añadir sal, pimienta, nuez moscada, las yemas y el queso parmesano.Poner el puré en una manga y colocar sobre el plato de forma decorativa y acabar en el horno. Presentar el plato con los filetitos de lenguado y tapar con la salsa"
+      ],
+      "foto": "./imagen/5.jpg",
+      "precio": "13000"
+    },
+    {
+      "id": "22",
+      "nombre": "BOLITAS DE POLLO ASADO CON CEBOLLITA",
+      "ingredientes": [
+        "½ cebolla.",
+        "1 puerro.",
+        "800 g. de hongos o setas variadas.",
+        "350 ml. de caldo de ave.",
+        "150 ml. de nata líquida.",
+        "150 g. de puré de castañas preparado (sin azúcar).",
+        "1 muslo de pato confitado.",
+        "Aceite de oliva.",
+        "Perejil.",
+        "Sal."
+      ],
+      "preparacion": "Para elaborar esta receta de crema de hongos y castañas con pato confitado, sofreímos en una sartén con un poco de aceite la cebolla y la parte blanca del puerro, todo muy bien picado. Después, limpiamos los hongos (reservamos algunos sombreros) y lo añadimos al sofrito.Al cabo de 5 minutos, agregamos el caldo de ave y dejamos cocer durante 10 minutos. A continuación, añadimos el puré de castañas, trituramos toda la mezcla y lo pasamos por un colador fino. Incorporamos la nata, dejamos que hierva 1 minuto y ponemos a punto de sal. En otra sartén, salteamos la cebolla picada restante, añadimos los sombreros de los hongos reservados con un poco de aceite y sal. Los dejamos hasta que estén dorados e incorporamos la carne de pato deshuesada y desmenuzada. Cocinamos todo junto para que se integren lo sabores, rectificamos de sal, retiramos y reservamos. Para terminar esta receta de crema de hongos y castañas con pato confitado, con ayuda de un molde, colocamos en el centro de un plato hondo la mezcla de carne y setas. Ya en la mesa, servimos la sopa caliente alrededor y decoramos con un toque de perejil",
+      "foto": "./imagen/6.jpg",
+      "precio": "10000"
+    },
+    {
+      "id": "23",
+      "nombre": "CREMA FRÍA DE MELÓN",
+      "ingredientes": [
+        "600 g. de silla de cordero deshuesada..",
+        "50 g. de dátiles.",
+        "3 cucharadas de mostaza en grano",
+        "1 boniato.",
+        "70 g. de puerro picado.",
+        "1 cabeza de ajos.",
+        "1 cucharada de nata líquida.",
+        "Aceite de oliva.",
+        "Pimienta.",
+        "Sal."
+      ],
+      "preparacion": "Para preparar esta receta de silla de cordero rellena de dátiles, primero picamos los dátiles.deshuesados y los mezclamos con la mostaza, salpimentamos la silla de cordero y rellenamos con la mezcla de dátil y mostaza, atamos con hilo de bridar y lo horneamos junto con la cabeza de ajo abierta a la mitad durante 25 minutos a 180ºC.Mientras, pelamos el boniato y lo troceamos, pochamos el puerro, añadimos el boniato y tapamos, cocinamos a fuego muy bajo durante 15 minutos, trituramos, ponemos a punto de sal y reservamos. Sacamos la carne de la cabeza de ajos, machacamos con un tenedor y mezclamos con una cucharada de nata líquida, damos forma de cilindro y cortamos en medallones de ½ cm.Cortamos la silla de cordero en medallones de 3cm. de grosor, colocamos el puré de boniato y encima la carne rellena. Acompañamos del mazapán de ajo y unas hojas de albahaca mini. ",
+      "foto": "./imagen/7.jpg",
+      "precio": "15000"
+    },
+    {
+      "id": "24",
+      "nombre": "CREMA FRÍA DE MELÓN",
+      "ingredientes": [
+        "8 hojas de lasaña.",
+        "1 cebolla mediana",
+        "1 pimiento.",
+        "1 berenjena.",
+        "1 calabacín pequeño.",
+        "200 g. de tomate frito.",
+        "200 ml. de leche entera.",
+        "2 cucharadas de harina.",
+        "Nuez moscada.",
+        "Queso Emmental rallado ",
+        "Aceite de Oliva.",
+        "Pimienta.",
+        "Sal."
+      ],
+      "preparacion": "Para elaborar esta receta de lasaña de verduras, primero ponemos una cazuela con agua a hervir  y cocemos las hojas de lasaña. Escurrimos y reservamos. Por otro lado, cortamos las verduras en dados y las sofreímos en una sartén con Aceite de Oliva y sal.Mientras, en una sartén aparte, hacemos una bechamel sofriendo la harina y añadiéndole poco a poco la leche sin dejar de remover hasta que espese. Acabar la bechamel añadiendo sal, pimienta y nuez moscada al gusto.A continuación, disponer la lasaña en una bandeja de horno, colocando las verduras entre dos capas de hojas de lasaña y cubriendo todo con la bechamel.Finalmente, espolvoreamos la lasaña de verduras con el queso emmental rallado y gratinamos en el horno unos minutos. ",
+      "foto": "./imagen/8.jpg",
+      "precio": "11000"
+    },
+    {
+      "nombre": "Rollos de carne",
+      "ingredientes": "carne, pimenton, huevo, ksdas, lasjdhjajss, sf",
+      "preparacion": "sadah jajhdsas kahas jhdjassdb",
+      "foto": "https://res.cloudinary.com/danimel/image/upload/v1641933602/4_hi0ywp.jpg",
+      "id": "26"
+    }
+  ]
+}

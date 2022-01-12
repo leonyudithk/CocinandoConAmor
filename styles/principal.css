@@ -1,0 +1,140 @@
+*{
+   box-sizing: border-box; /*para que el borde no afecte los contenidos*/
+    font-size: 62.5%;
+}
+
+body{
+    font-family: monospace;
+    font-size: 2,3 rem;/*1rem son 10px*/
+    line-height: 1,5; /*interlineado de 2*/
+}
+
+.container{
+    max-width: 120rem;
+    width: 90%;
+    margin: 0 auto;
+}
+
+header{
+    background-image: url(../imagen/Hibiscus\ Jalapeño\ Quick\ Pickled\ Veggies\ \(Artful\ Desperado\).jpg);
+    height: 40rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+}
+
+.navbar-nav{
+    background: rgb(98, 0, 255) !important;
+}
+
+.nav-item{
+    background: rgb(189, 59, 59) !important;
+}
+
+.header__texto {
+    text-align: center;
+    color: var(--blanco);
+    margin-top: 5rem;
+    color: white;
+    background: rgb(12, 12, 12, 0.5);
+
+ }
+
+.grid-recetas{
+    margin: 40px;
+    margin: 30px;
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+ 
+.card-img{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+ .footer {
+    background-color: black;
+    padding-bottom: 3rem;
+    margin-top: 4rem;
+    color: white;
+}
+.navegacion__enlace {
+    display: block;
+    text-align: center;
+    font-size: 1.8rem;
+    color: var(--blanco);
+    background: black;
+}
+
+li{
+   color: black;
+   font-size: 20px;
+   text-align: justify;
+   
+}
+
+p{
+    color: black;
+    font-size: 20px; 
+    text-align: justify;
+}
+
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4rem;
+}
+
+.titulo{
+    margin: 40px;
+    font-size: xx-large;
+    color: purple;
+    font-family: fantasy;
+}
+
+.texto{
+    width:  80%;
+    text-align: justify;
+    background-color: rgba(255, 154, 213, 0.2);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row{
+    margin-top: 3rem;
+    justify-content: center;
+}
+.card{
+    margin-top: 3rem;
+    margin: 1rem;
+    justify-content: center;
+   padding: 1rem;
+}
+
+.imagenes{
+    display: block;
+}
+.card-img-top2{
+    margin: 1rem;
+    width: 200px;
+    height: 350px;
+
+}
+
+h5{
+    text-align: center !important;
+    background: rgba(236, 85, 241, 0.3);
+}
+
+.modal{
+    margin: 20px !important;
+}

@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    font-family: monospace;
+}
+
+main{
+    width: 90%;
+    margin: 3rem;
+    padding: 1rem;
+    justify-content: center;
+    text-align: center;
+    font-size: 2,3 rem;/*1rem son 10px*/
+    line-height: 2; /*interlineado de 2*/
+
+}
+
+
+#formulario{
+    background-image: url(../imagen/food.jpg);
+        background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    justify-content: center;
+}
+
+input{
+    height: 4rem;
+}
+
+
+.campo{
+  
+    margin: 2rem;
+ }
+ .campo label{
+    background: rgba(233, 135, 217, 0.3);
+    font-size: large;
+    text-align: left !important;
+    color: black;
+    font-family: fantasy;
+ }
+
+ .campo input{
+    background: rgb(218, 231, 221, 0.7);
+    font-size: large;
+    color: black;
+   
+ }
+
+ button{
+     width: 30%;
+     height: 10%;
+     margin: 1rem;
+     border-radius: 25px;
+     font-size: large !important;
+    background: blueviolet !important;
+ }
+
